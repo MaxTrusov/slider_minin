@@ -1,5 +1,5 @@
 
-function slidesPlagin(activeSlide) {
+function slidesPlagin(activeSlide = 0) {
    const slides = document.querySelectorAll('.slide');
 
    slides[activeSlide].classList.add('active');
@@ -18,4 +18,4 @@ function slidesPlagin(activeSlide) {
    }
 }
 
-slidesPlagin(4);
+slidesPlagin();
