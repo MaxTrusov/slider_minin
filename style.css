@@ -16,12 +16,12 @@ body{
    display: flex;
    justify-content: center;
    align-items: center;
-   padding: 50px;
 }
 .container{
    width: 100%;
    display: flex;
    padding: 0 20px;
+   margin: 50px;
 }
 
 .slide{
