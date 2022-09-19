@@ -10,18 +10,19 @@ body{
    background: rgb(93, 91, 91);
    text-align: center;
    color: #fff;
+   height: 100vh;
 }
 .boxCards{
-   height: 100vh;
+   height: 80vh;
    display: flex;
    justify-content: center;
    align-items: center;
+   margin: 50px;
 }
 .container{
    width: 100%;
    display: flex;
    padding: 0 20px;
-   margin: 50px;
 }
 
 .slide{
