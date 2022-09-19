@@ -18,4 +18,4 @@ function slidesPlagin(activeSlide) {
    }
 }
 
-slidesPlagin(0);
+slidesPlagin(4);
